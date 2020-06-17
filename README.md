@@ -1,0 +1,2 @@
+# Medical-Imaging-CNN
+Medical Imaging uses computer vision to diagnose patients, by examining X-Rays. In this project, I aim to make use of computer vision for addressing the common problem of Pneumonia. The model I have coded is a binary classifier which can be used for dividing X-Rays on the basis of People with Pneumonia vs. Healthy people. Tensorflow Keras and a Convolutional Neural Network are used, with Transfer Learning being used to improve the model performance.
